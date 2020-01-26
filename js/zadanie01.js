@@ -1,5 +1,5 @@
-function getSqrt(x){
-        var y = Math.sqrt(x);
+function getSqrt(n){
+        var y = Math.sqrt(n);
         return(y);
 }
 
