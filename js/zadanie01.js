@@ -1,6 +1,6 @@
 function getSqrt(n){
         var y = Math.sqrt(n);
-        return(y);
+        return y;
 }
 
 
